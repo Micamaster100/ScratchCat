@@ -1,3 +1,5 @@
+/**This was made all by Micamaster100 on Visual Studio Code. Feel free to look around!**/
+
 const Discord = require('discord.js');
 
 const client = new Discord.Client({intents: ["GUILDS", "GUILD_MESSAGES"]}); 
