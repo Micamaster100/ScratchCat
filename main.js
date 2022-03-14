@@ -1,4 +1,5 @@
-/**This was made all by Micamaster100 on Visual Studio Code. Feel free to look around!**/
+//THIS WAS CREATED ON A PACK INCLUDING DISCORD.JS AND NODE.JS! MAKE SURE TO DOWNLOAD THEM BOTH IF YOU WANT TO CREATE A BOT BASED OFF MY SOURCE CODE.
+/**Created by Micamaster100 on Visual Studio Code.**/
 
 const Discord = require('discord.js');
 
@@ -7,7 +8,7 @@ const client = new Discord.Client({intents: ["GUILDS", "GUILD_MESSAGES"]});
 const prefix = '-';
 
 client.once('ready', () => {
-    console.log('M100 is online.');
+    console.log('ScratchCat is online.');
 });
 
 client.on('message', message => {
