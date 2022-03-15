@@ -20,11 +20,11 @@ client.on('message', message => {
     if(command === 'ping'){
         message.channel.send('pong');
     }
-    if(command === 'youtube'){
-        message.channel.send('https://www.youtube.com/channel/UCa2zomXIWj2f_XLS1AkhfTg');
-    }
     if(command === 'about'){
         message.channel.send('This bot is for all scratch servers, and can do a bunch of scratch-related stuff, like verify, and give some users information!');
+    }
+    if(command === 'scserver'){
+        message.channel.send('https://discord.gg/rUvnndKhsk');
     }
 });
 
