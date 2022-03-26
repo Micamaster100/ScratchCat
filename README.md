@@ -1,4 +1,4 @@
-# ScratchCat-sourceCode
+# ScratchCat Source Code
 Basically the source code of my bot... yeah
 
 umm feel free to refrence this in your own bot. idrc honestly (u don't have to give credit by the way)
